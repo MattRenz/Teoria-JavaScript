@@ -1,0 +1,30 @@
+
+DOM
+
+    HTML DOM (Document Object Model) è una rappresentazione gerarchica degli elementi 
+    HTML di una pagina web, che JavaScript utilizza per accedere, modificare e manipolare
+    gli elementi HTML e i loro attributi. Il DOM organizza gli elementi HTML in una struttura 
+    ad albero, consentendo a JavaScript di interagire con gli elementi HTML in modo dinamico.
+
+
+Attraveerso il DOM si può: 
+
+    - Accedere agli elementi HTML:
+        Puoi utilizzare metodi come getElementById, getElementsByClassName, 
+        getElementsByTagName o querySelector per ottenere riferimenti agli elementi HTML nel documento.
+
+    - Modificare gli elementi HTML: 
+        Puoi manipolare gli attributi, il testo e il contenuto degli elementi HTML, 
+        cambiare lo stile o aggiungere e rimuovere classi.
+
+    - Gestire eventi: 
+        Puoi collegare funzioni JavaScript agli eventi degli elementi HTML (come il clic di un pulsante o il caricamento della pagina) 
+        per rispondere alle interazioni degli utenti.
+
+    - Creare nuovi elementi HTML: 
+        Puoi creare dinamicamente nuovi elementi HTML e aggiungerli al documento 
+        utilizzando metodi come createElement e appendChild.
+
+    - Effettuare animazioni e transizioni: 
+        Puoi modificare le proprietà CSS degli elementi HTML nel DOM per creare animazioni, 
+        transizioni o effetti di visualizzazione.

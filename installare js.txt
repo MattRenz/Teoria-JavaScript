@@ -1,0 +1,7 @@
+// https://nodejs.org dwonload
+
+// sudo apt install nodejs
+
+//  terminale su file python node script.js
+
+
